@@ -1,0 +1,6 @@
+{
+    "parent": "item/inventory_part",
+    "textures": {
+      "1": "item/light_vertical_line"
+    }
+}

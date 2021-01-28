@@ -1,0 +1,20 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/compass_14"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 9999998
+      },
+      "model": "item/custom/compass_14_full"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9999999
+      },
+      "model": "item/custom/compass_14"
+    }
+  ]
+}

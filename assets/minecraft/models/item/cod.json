@@ -1,0 +1,39 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/cod"
+  },
+  "display": {
+    "head": {
+      "rotation": [
+        0,
+        90,
+        -60
+      ],
+      "translation": [
+        -7,
+        -4,
+        -7
+      ],
+      "scale": [
+        0.8,
+        0.8,
+        0.8
+      ]
+    }
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 9999998
+      },
+      "model": "item/custom/cod_full"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9999999
+      },
+      "model": "item/custom/cod"
+    }
+  ]
+}

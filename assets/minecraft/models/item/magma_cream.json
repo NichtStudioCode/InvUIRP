@@ -1,0 +1,20 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/magma_cream"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 9999998
+      },
+      "model": "item/custom/magma_cream_full"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9999999
+      },
+      "model": "item/custom/magma_cream"
+    }
+  ]
+}

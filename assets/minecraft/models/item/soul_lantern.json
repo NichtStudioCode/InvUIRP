@@ -1,0 +1,20 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/soul_lantern"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 9999998
+      },
+      "model": "item/custom/soul_lantern_full"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9999999
+      },
+      "model": "item/custom/soul_lantern"
+    }
+  ]
+}

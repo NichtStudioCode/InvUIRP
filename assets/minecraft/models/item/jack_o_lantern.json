@@ -1,0 +1,17 @@
+{
+  "parent": "minecraft:block/jack_o_lantern",
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 9999998
+      },
+      "model": "item/custom/jack_o_lantern_full"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9999999
+      },
+      "model": "item/custom/jack_o_lantern"
+    }
+  ]
+}

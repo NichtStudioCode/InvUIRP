@@ -1,0 +1,17 @@
+{
+  "parent": "minecraft:block/stripped_crimson_stem",
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 9999998
+      },
+      "model": "item/custom/stripped_crimson_stem_full"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9999999
+      },
+      "model": "item/custom/stripped_crimson_stem"
+    }
+  ]
+}

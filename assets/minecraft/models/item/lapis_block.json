@@ -1,0 +1,17 @@
+{
+  "parent": "minecraft:block/lapis_block",
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 9999998
+      },
+      "model": "item/custom/lapis_block_full"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9999999
+      },
+      "model": "item/custom/lapis_block"
+    }
+  ]
+}

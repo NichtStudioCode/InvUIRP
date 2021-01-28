@@ -1,0 +1,6 @@
+{
+  "parent": "item/custom/template_full",
+  "textures": {
+    "1": "minecraft:block/tripwire_hook"
+  }
+}

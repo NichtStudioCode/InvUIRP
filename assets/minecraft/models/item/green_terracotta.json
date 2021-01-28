@@ -1,0 +1,17 @@
+{
+  "parent": "minecraft:block/green_terracotta",
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 9999998
+      },
+      "model": "item/custom/green_terracotta_full"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9999999
+      },
+      "model": "item/custom/green_terracotta"
+    }
+  ]
+}

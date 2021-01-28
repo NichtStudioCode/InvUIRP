@@ -1,5 +1,5 @@
 {
-    "parent": "item/inventory_part",
+    "parent": "item/icon/inventory_part",
     "textures": {
       "1": "item/light_arrow_2_down"
     }

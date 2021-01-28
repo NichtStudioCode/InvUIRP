@@ -8,175 +8,175 @@
       "predicate": {
         "custom_model_data": 10000000
       },
-      "model": "item/inventory_part"
+      "model": "item/icon/inventory_part"
     },
     {
       "predicate": {
         "custom_model_data": 10000001
       },
-      "model": "item/arrow_1_up"
+      "model": "item/icon/arrow_1_up"
     },
     {
       "predicate": {
         "custom_model_data": 10000002
       },
-      "model": "item/arrow_1_right"
+      "model": "item/icon/arrow_1_right"
     },
     {
       "predicate": {
         "custom_model_data": 10000003
       },
-      "model": "item/arrow_1_down"
+      "model": "item/icon/arrow_1_down"
     },
     {
       "predicate": {
         "custom_model_data": 10000004
       },
-      "model": "item/arrow_1_left"
+      "model": "item/icon/arrow_1_left"
     },
     {
       "predicate": {
         "custom_model_data": 10000005
       },
-      "model": "item/light_arrow_1_up"
+      "model": "item/icon/light_arrow_1_up"
     },
     {
       "predicate": {
         "custom_model_data": 10000006
       },
-      "model": "item/light_arrow_1_right"
+      "model": "item/icon/light_arrow_1_right"
     },
     {
       "predicate": {
         "custom_model_data": 10000007
       },
-      "model": "item/light_arrow_1_down"
+      "model": "item/icon/light_arrow_1_down"
     },
     {
       "predicate": {
         "custom_model_data": 10000008
       },
-      "model": "item/light_arrow_1_left"
+      "model": "item/icon/light_arrow_1_left"
     },
     {
       "predicate": {
         "custom_model_data": 10000009
       },
-      "model": "item/arrow_2_up"
+      "model": "item/icon/arrow_2_up"
     },
     {
       "predicate": {
         "custom_model_data": 10000010
       },
-      "model": "item/arrow_2_right"
+      "model": "item/icon/arrow_2_right"
     },
     {
       "predicate": {
         "custom_model_data": 10000011
       },
-      "model": "item/arrow_2_down"
+      "model": "item/icon/arrow_2_down"
     },
     {
       "predicate": {
         "custom_model_data": 10000012
       },
-      "model": "item/arrow_2_left"
+      "model": "item/icon/arrow_2_left"
     },
     {
       "predicate": {
         "custom_model_data": 10000013
       },
-      "model": "item/light_arrow_2_up"
+      "model": "item/icon/light_arrow_2_up"
     },
     {
       "predicate": {
         "custom_model_data": 10000014
       },
-      "model": "item/light_arrow_2_right"
+      "model": "item/icon/light_arrow_2_right"
     },
     {
       "predicate": {
         "custom_model_data": 10000015
       },
-      "model": "item/light_arrow_2_down"
+      "model": "item/icon/light_arrow_2_down"
     },
     {
       "predicate": {
         "custom_model_data": 10000016
       },
-      "model": "item/light_arrow_2_left"
+      "model": "item/icon/light_arrow_2_left"
     },
     {
       "predicate": {
         "custom_model_data": 10000017
       },
-      "model": "item/horizontal_line"
+      "model": "item/icon/horizontal_line"
     },
     {
       "predicate": {
         "custom_model_data": 10000018
       },
-      "model": "item/vertical_line"
+      "model": "item/icon/vertical_line"
     },
     {
       "predicate": {
         "custom_model_data": 10000019
       },
-      "model": "item/light_horizontal_line"
+      "model": "item/icon/light_horizontal_line"
     },
     {
       "predicate": {
         "custom_model_data": 10000020
       },
-      "model": "item/light_vertical_line"
+      "model": "item/icon/light_vertical_line"
     },
     {
       "predicate": {
         "custom_model_data": 10000021
       },
-      "model": "item/corner_top_left"
+      "model": "item/icon/corner_top_left"
     },
     {
       "predicate": {
         "custom_model_data": 10000022
       },
-      "model": "item/corner_top_right"
+      "model": "item/icon/corner_top_right"
     },
     {
       "predicate": {
         "custom_model_data": 10000023
       },
-      "model": "item/corner_bottom_left"
+      "model": "item/icon/corner_bottom_left"
     },
     {
       "predicate": {
         "custom_model_data": 10000024
       },
-      "model": "item/corner_bottom_right"
+      "model": "item/icon/corner_bottom_right"
     },
     {
       "predicate": {
         "custom_model_data": 10000025
       },
-      "model": "item/light_corner_top_left"
+      "model": "item/icon/light_corner_top_left"
     },
     {
       "predicate": {
         "custom_model_data": 10000026
       },
-      "model": "item/light_corner_top_right"
+      "model": "item/icon/light_corner_top_right"
     },
     {
       "predicate": {
         "custom_model_data": 10000027
       },
-      "model": "item/light_corner_bottom_left"
+      "model": "item/icon/light_corner_bottom_left"
     },
     {
       "predicate": {
         "custom_model_data": 10000028
       },
-      "model": "item/light_corner_bottom_right"
+      "model": "item/icon/light_corner_bottom_right"
     }
   ]
 }

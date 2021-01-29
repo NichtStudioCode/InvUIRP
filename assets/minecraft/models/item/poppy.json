@@ -189,6 +189,102 @@
         "custom_model_data": 10000028
       },
       "model": "item/icon/light_corner_bottom_right"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000029
+      },
+      "model": "item/icon/horizontal_down"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000030
+      },
+      "model": "item/icon/horizontal_up"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000031
+      },
+      "model": "item/icon/vertical_left"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000032
+      },
+      "model": "item/icon/vertical_right"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000033
+      },
+      "model": "item/icon/light_horizontal_down"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000034
+      },
+      "model": "item/icon/light_horizontal_up"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000035
+      },
+      "model": "item/icon/light_vertical_left"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000036
+      },
+      "model": "item/icon/light_vertical_right"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000037
+      },
+      "model": "item/icon/vertical_horizontal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000038
+      },
+      "model": "item/icon/light_vertical_horizontal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000039
+      },
+      "model": "item/icon/x"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000040
+      },
+      "model": "item/icon/light_x"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000041
+      },
+      "model": "item/icon/red_x"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000042
+      },
+      "model": "item/icon/checkmark"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000043
+      },
+      "model": "item/icon/light_checkmark"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000044
+      },
+      "model": "item/icon/green_checkmark"
     }
   ]
 }

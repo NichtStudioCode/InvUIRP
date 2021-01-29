@@ -1,5 +1,5 @@
 {
-    "parent": "item/icon/inventory_part",
+    "parent": "item/icon/template",
     "textures": {
       "1": "item/corner_top_right"
     }

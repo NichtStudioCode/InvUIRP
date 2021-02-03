@@ -297,6 +297,12 @@
         "custom_model_data": 10000046
       },
       "model": "item/icon/anvil_overlay_arrow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000047
+      },
+      "model": "item/icon/anvil_overlay_arrow_left"
     }
   ]
 }

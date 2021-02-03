@@ -285,6 +285,18 @@
         "custom_model_data": 10000044
       },
       "model": "item/icon/green_checkmark"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000045
+      },
+      "model": "item/icon/anvil_overlay_plus"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000046
+      },
+      "model": "item/icon/anvil_overlay_arrow"
     }
   ]
 }

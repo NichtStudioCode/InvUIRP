@@ -1,6 +1,0 @@
-{
-  "parent": "item/custom/template",
-  "textures": {
-    "1": "minecraft:item/warped_sign"
-  }
-}

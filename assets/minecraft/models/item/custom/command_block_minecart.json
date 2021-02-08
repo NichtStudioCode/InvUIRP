@@ -1,6 +1,0 @@
-{
-  "parent": "item/custom/template",
-  "textures": {
-    "1": "minecraft:item/command_block_minecart"
-  }
-}

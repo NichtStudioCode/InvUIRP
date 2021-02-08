@@ -1,6 +1,0 @@
-{
-  "parent": "item/custom/template_full",
-  "textures": {
-    "1": "minecraft:item/netherite_axe"
-  }
-}

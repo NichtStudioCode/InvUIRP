@@ -1,0 +1,6 @@
+{
+  "parent": "item/custom/template",
+  "textures": {
+    "1": "minecraft:item/music_disc_cat"
+  }
+}

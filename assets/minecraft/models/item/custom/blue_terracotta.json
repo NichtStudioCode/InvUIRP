@@ -1,0 +1,6 @@
+{
+  "parent": "item/custom/template",
+  "textures": {
+    "1": "minecraft:block/blue_terracotta"
+  }
+}

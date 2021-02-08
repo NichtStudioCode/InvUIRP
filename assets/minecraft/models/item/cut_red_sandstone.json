@@ -1,0 +1,17 @@
+{
+  "parent": "minecraft:block/cut_red_sandstone",
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 9999998
+      },
+      "model": "item/custom/cut_red_sandstone_full"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9999999
+      },
+      "model": "item/custom/cut_red_sandstone"
+    }
+  ]
+}

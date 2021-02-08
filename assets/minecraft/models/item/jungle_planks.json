@@ -1,0 +1,17 @@
+{
+  "parent": "minecraft:block/jungle_planks",
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 9999998
+      },
+      "model": "item/custom/jungle_planks_full"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9999999
+      },
+      "model": "item/custom/jungle_planks"
+    }
+  ]
+}

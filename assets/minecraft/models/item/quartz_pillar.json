@@ -1,0 +1,17 @@
+{
+  "parent": "minecraft:block/quartz_pillar",
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 9999998
+      },
+      "model": "item/custom/quartz_pillar_full"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9999999
+      },
+      "model": "item/custom/quartz_pillar"
+    }
+  ]
+}

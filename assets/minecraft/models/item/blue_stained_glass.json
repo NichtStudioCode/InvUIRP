@@ -1,0 +1,17 @@
+{
+  "parent": "minecraft:block/blue_stained_glass",
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 9999998
+      },
+      "model": "item/custom/blue_stained_glass_full"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9999999
+      },
+      "model": "item/custom/blue_stained_glass"
+    }
+  ]
+}

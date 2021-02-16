@@ -387,6 +387,30 @@
         "custom_model_data": 10000061
       },
       "model": "item/icon/light_box"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000062
+      },
+      "model": "item/icon/refresh"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000063
+      },
+      "model": "item/icon/light_refresh"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000064
+      },
+      "model": "item/icon/refresh_animated"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10000065
+      },
+      "model": "item/icon/light_refresh_animated"
     }
   ]
 }

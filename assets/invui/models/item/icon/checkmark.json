@@ -1,0 +1,6 @@
+{
+    "parent": "invui:item/icon/template",
+    "textures": {
+      "1": "invui:item/checkmark"
+    }
+}
